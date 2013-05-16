@@ -7,6 +7,7 @@ import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
 
 int indent=40;
+//Toast Mother fucker!
 //Serial Variables:
 Serial port;  // Create object from Serial class
 //Signal Strength Data Received from Serial Port
